@@ -9,7 +9,16 @@
     <ul>
         <li>📄Language</li>
             <ul>
-                <li>
+                <li>Concatenation of Strings
+                <li>Reverse
+                <li>Concatenation of Languages
+                <li>Kleene Closure / Star Closure
+            </ul>
+        <li>📄Proof Techniques
+            <ul>
+                <li>Direct Proof
+                <li>Proof by Induction
+                <li>Proof by Contradiction
             </ul>
     </ul>
 </div>
@@ -38,6 +47,21 @@
                         <li>Def: A new language that contains all possible strings formed by concatenating zero or more strings from the original language. (從一個語言出發，包含所有由原始語言中的字符串通過零次或多次連接形成的字符串的新語言。)
                         <li>Feat: Always includes the empty string, representing zero concatenations. (總是包括空字符串，表示零次連接。)
                         <li>Exp: If a language L contains {"a", "b"}, its Kleene Closure includes {"", "a", "b", "aa", "ab", "ba", "bb", "aaa", ...}.
+                    </ul>
+            </ul>
+        <li>Proof Techniques: Proof techniques are fundamental methods used in mathematics, computer science, and related fields to establish the truth or falsity of propositions.
+            <ul>
+                <li>Direct Proof:
+                    <ul>
+                        <li>Def: In a direct proof, you start with known facts or axioms and use logical steps to arrive at the statement you want to prove. (在直接證明中，你從已知的事實或公理出發，通過邏輯步驟推導出你想證明的陳述。)
+                    </ul>
+                <li>Proof by Induction:
+                    <ul>
+                        <li>Def: This technique is used to prove statements about natural numbers (or other well-ordered sets). It consists of two parts: the base case (proving the statement for the initial value, usually 0 or 1) and the inductive step (proving that if the statement is true for one number, it must be true for the next number). (這種技術用於證明關於自然數（或其他良序集合）的陳述。它包括兩部分：基礎情況（證明陳述對初始值（通常是0或1）成立）和歸納步驟（證明如果陳述對一個數字成立，那麼它對下一個數字也必須成立）。)
+                    </ul>
+                <li>Proof by Contradiction:
+                    <ul>
+                        <li> Def: In this method, you assume that the statement you want to prove is false, and then show that this assumption leads to a contradiction. The contradiction implies that the assumption was wrong, and therefore, the original statement must be true. (在這種方法中，你假設你想證明的陳述是錯誤的，然後展示這個假設會導致矛盾。矛盾意味著假設是錯的，因此，原始陳述必須是真的。)
                     </ul>
             </ul>
     </ol>
