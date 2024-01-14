@@ -49,7 +49,11 @@
                         <li>Exp: If a language L contains {"a", "b"}, its Kleene Closure includes {"", "a", "b", "aa", "ab", "ba", "bb", "aaa", ...}.
                     </ul>
             </ul>
-        <li>Proof Techniques: Proof techniques are fundamental methods used in mathematics, computer science, and related fields to establish the truth or falsity of propositions.
+    </ol>
+
+<h2 align = "center">Proof Techniques</h2>
+<ol>
+    <li>Proof Techniques: Proof techniques are fundamental methods used in mathematics, computer science, and related fields to establish the truth or falsity of propositions.
             <ul>
                 <li>Direct Proof:
                     <ul>
@@ -64,5 +68,5 @@
                         <li> Def: In this method, you assume that the statement you want to prove is false, and then show that this assumption leads to a contradiction. The contradiction implies that the assumption was wrong, and therefore, the original statement must be true. (在這種方法中，你假設你想證明的陳述是錯誤的，然後展示這個假設會導致矛盾。矛盾意味著假設是錯的，因此，原始陳述必須是真的。)
                     </ul>
             </ul>
-    </ol>
+</ol>
 
