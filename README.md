@@ -10,7 +10,7 @@
     <p>📦CS321-INTRODUCTION-TO-THEORY-OF-COMPUTATION</p>
     <ul>
         <li>📂<a href="https://github.com/ChiayuTu2/CS321-INTRODUCTION-TO-THEORY-OF-COMPUTATION/tree/master/0.%20Summary">0. Summary</a></li>
-        <li>📂<a href="https://github.com/ChiayuTu2/CS321-INTRODUCTION-TO-THEORY-OF-COMPUTATION/tree/master/1.%20Assignment%20One">0. Assignment One</a></li>
+        <li>📂<a href="https://github.com/ChiayuTu2/CS321-INTRODUCTION-TO-THEORY-OF-COMPUTATION/tree/master/1.%20Assignment%20One">1. Assignment One</a></li>
         <li>📄README.md</li>
     </ul>
 </div>
